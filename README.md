@@ -1,5 +1,5 @@
 <!-- add an svg image -->
-![image](health-vault.png)
+![image](https://github.com/InteliBlockchain/HealthVault/blob/main/health-vault.jpeg?raw=true)
 
 # Bem vindo ao **Health Vault**! 
 
